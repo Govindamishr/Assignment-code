@@ -33,6 +33,14 @@ The software initializes the service prices for each car type as follows:
 2. Call the `generateBill` method with the car type and an array of service codes.
 3. The method will print the type of car, service codes, charges for each service, total bill, and, if the total bill exceeds ₹ 10,000, it will mention the complimentary cleaning included.
 
+
+Type of Car: Hatchback
+Service Codes:
+BS01 - ₹ 2000
+EF01 - ₹ 5000
+Total Bill: ₹ 7000
+
+
 Example:
 
 ```java
